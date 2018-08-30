@@ -1,2 +1,2 @@
 # Arduino-RPi
-Raspberry Pi and Arduino projects around
+Arduino and Raspberry Pi projects around
