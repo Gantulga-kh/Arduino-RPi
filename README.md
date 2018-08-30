@@ -1,2 +1,2 @@
 # Arduino-RPi
-Arduino and Raspberry Pi projects around
+Looking for something to build that uses both Arduino & Raspberry-Pi? Wait a minute . . .
